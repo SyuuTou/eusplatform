@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eusplatform.iml" filepath="$PROJECT_DIR$/eusplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eusplatform-service/eusplatform-service.iml" filepath="$PROJECT_DIR$/eusplatform-service/eusplatform-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eusplatform-util/eusplatform-util.iml" filepath="$PROJECT_DIR$/eusplatform-util/eusplatform-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eusplatform-web/eusplatform-web.iml" filepath="$PROJECT_DIR$/eusplatform-web/eusplatform-web.iml" />
+    </modules>
+  </component>
+</project>

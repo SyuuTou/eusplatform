@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eusplatform-web:war">
+    <output-path>$PROJECT_DIR$/eusplatform-web/target</output-path>
+    <root id="archive" name="eusp.war">
+      <element id="artifact" artifact-name="eusplatform-web:war exploded" />
+    </root>
+  </artifact>
+</component>

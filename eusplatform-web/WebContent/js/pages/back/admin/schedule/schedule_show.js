@@ -1,0 +1,9 @@
+$(function(){
+	$("#showBtn").on("click",function(){
+		$.post("pages/back/admin/schedule/ScheduleAction!reportShow.action",{
+			"sid":$("#sid").val()
+		},function(data){
+			$("#showBtn").text(data.all.report.note);
+		},"json");
+	});
+});
